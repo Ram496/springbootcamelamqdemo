@@ -1,0 +1,13 @@
+package db.springboot.camel.amq.springbootcamelamqdemo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringbootcamelamqdemoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringbootcamelamqdemoApplication.class, args);
+	}
+
+}
